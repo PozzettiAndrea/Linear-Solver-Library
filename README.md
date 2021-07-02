@@ -157,5 +157,3 @@ See LICENSE.txt for details.
 Testing files, main_tests_components.cpp and main_tests_solvers.cpp are present within the repository for your own leisurely testing.
 
 For further reading/information on specific methods please refer to documentation.md.
-
-###### Team-Void ACSE-5
